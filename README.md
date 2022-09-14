@@ -1,4 +1,5 @@
 # Realsense.jl
+Julia interface to Intel realsense cameras via ROS 1
 
 ## Installation 
 0. Install ROS and install the Intel Realsense ROS package: `sudo apt-get install ros-melodic-realsense2-camera`
