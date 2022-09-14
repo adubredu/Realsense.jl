@@ -2,3 +2,4 @@
 src/ws/devel
 src/ws/build
 .CondaPkg
+src/__pycache__

@@ -9,5 +9,5 @@
 4. Press the `Backspace` key on your keyboard to return to the REPL
 
 
-## Usage
-See the [examples](examples) folder for usage examples
+## Usage 
+1. See the [examples](examples) folder for usage examples
