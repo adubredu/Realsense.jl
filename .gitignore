@@ -1,3 +1,4 @@
 /Manifest.toml
 src/ws/devel
 src/ws/build
+.CondaPkg
